@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @akarsh234
-- 👀 I’m interested in ...Coding 
-- 🌱 I’m currently learning ...C++ and DSA 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Akarsh Mishra 
+- 👀 I’m interested in  Cybersecurity , Artificial Intelligence and Blockchain.
+- 🌱 I’m currently learning DSA and  Web Development.
+- 📫 How to reach me
+- Linkedin : https://www.linkedin.com/in/akarsh-mishra-b5b591289/
+- Instagram : akarsh_234
+  
 
 <!---
 akarsh234/akarsh234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
